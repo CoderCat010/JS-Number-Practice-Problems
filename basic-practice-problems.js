@@ -1,20 +1,31 @@
-//-----> Task-1: দুইটা সংখ্যা যোগ করো।
+//-----> দুইটা সংখ্যা যোগ করো।
 // console.log(1 + 2);
 
 
-//-----> Task-2: দুইটা সংখ্যা যোগ করো।
+//-----> দুইটা সংখ্যা যোগ করো।
 // console.log(1 - 1);
 
 
-//-----> TASK-3: দুইটা সংখ্যা গুণ করো।
+//-----> দুইটা সংখ্যা গুণ করো।
 // console.log(3 * 3);
 
 
-//-----> TASK-4: দুইটা সংখ্যা ভাগ করো।
+//-----> দুইটা সংখ্যা ভাগ করো।
 // console.log(5 / 5);
 
 
-//-----> TASK-5: সংখ্যা ১০-এর modulus বের করো।
+//-----> সংখ্যা ১০-এর modulus বের করো।
 // console.log(10 % 10);
+
+
+//-----> Check if a number is divisible by 2 or check if a number is divisible by 5.
+// let x = 3;
+// let y = 10;
+
+// if(x % 2 == 0 || y % 5 == 0){
+//     console.log('correct!');
+// }else{
+//     console.log('wrong!');
+// }
 
 
