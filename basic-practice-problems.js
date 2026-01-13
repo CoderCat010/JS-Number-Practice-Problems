@@ -14,3 +14,7 @@
 // console.log(5 / 5);
 
 
+//-----> TASK-5: সংখ্যা ১০-এর modulus বের করো।
+// console.log(10 % 10);
+
+
