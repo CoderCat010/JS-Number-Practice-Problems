@@ -55,17 +55,38 @@
 
 
 //-----> Find the smallest of three numbers.
-let x = 3;
-let y = 53;
-let z = 53;
+// let x = 3;
+// let y = 53;
+// let z = 53;
 
-if(x < y && x < z){
-    console.log('x is less than y and z');
-}else if(y < x && y < z){
-    console.log('y is less than x and z');
-}else if(z < x && z < y){
-    console.log('z is less than x and y');
-}else{
-    console.log('first provide a small number');
-}
+// if(x < y && x < z){
+//     console.log('x is less than y and z');
+// }else if(y < x && y < z){
+//     console.log('y is less than x and z');
+// }else if(z < x && z < y){
+//     console.log('z is less than x and y');
+// }else{
+//     console.log('first provide a small number');
+// }
+
+
+//-----> Find the square root of a number.
+// let getSquare_root = 16;
+// let guessNumbers = 4;
+// if(guessNumbers * guessNumbers === getSquare_root){
+//     console.log('correct');
+// }else{
+//     console.log('wrong');
+// }
+
+//or 
+// let getSquare_root = 25;
+// let guessNumbers = [];
+
+// for(let values = 1; values <= getSquare_root; values++){
+//     if(values * values === getSquare_root){
+//         guessNumbers = values;
+//     }
+// }
+// console.log(guessNumbers);
 
