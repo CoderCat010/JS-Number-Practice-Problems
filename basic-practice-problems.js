@@ -39,18 +39,33 @@
 
 
 //-----> Find the largest of three numbers.
+// let x = 3;
+// let y = 55;
+// let z = 5;
+
+// if(x > y && x > z){
+//     console.log('x is greater than y and z');
+// }else if(y > x && y > z){
+//     console.log('y is greater than x and z');
+// }else if(z > x && z > y ){
+//     console.log('z is greater than x and y');
+// }else{
+//     console.log('first provide a big number');
+// }
+
+
+//-----> Find the smallest of three numbers.
 let x = 3;
-let y = 55;
-let z = 5;
+let y = 53;
+let z = 53;
 
-if(x > y && x > z){
-    console.log('x is greater than y and z');
-}else if(y > x && y > z){
-    console.log('y is greater than x and z');
-}else if(z > x && z > y ){
-    console.log('z is greater than x and y');
+if(x < y && x < z){
+    console.log('x is less than y and z');
+}else if(y < x && y < z){
+    console.log('y is less than x and z');
+}else if(z < x && z < y){
+    console.log('z is less than x and y');
 }else{
-    console.log('first provide a big number');
+    console.log('first provide a small number');
 }
-
 
