@@ -124,6 +124,14 @@
 // console.log(sum);
 
 
+//-----> Reverse a number.
+// let num = 12345;
+// let y = num.toString().split('').reverse().join('')
+// console.log(y);
+
+
+
+
  
 
 
