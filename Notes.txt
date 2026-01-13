@@ -1,0 +1,23 @@
+// amra jokhon akadhik value store korte chaibo tokhon [] eita use korbo 
+------> for example: 
+let x = let getSquare_root = 25;
+let guessNumbers = [];
+
+for(let values = 1; values <= getSquare_root; values++){
+    if(values * values === getSquare_root){
+        guessNumbers = values;
+    }
+}
+console.log(guessNumbers); // ekahne 25 porjonto loop ta cholbe so akadhik value amra pabo ekhane segulo array akare store korbo let guessNumbers = []; eikahne.
+
+
+// amra jokhon sudhu ekta updated value store korbo tokhon 0 use korbo 
+-------> for example:
+let nums = 1234;
+let toStr = nums.toString();
+let sum = 0;
+for(let i = 0; i < toStr.length; i++){
+    sum += Number(toStr[i]);
+}
+console.log(sum); // ekhane loop ta cholbe 4 porjonto then jog kore notun ekta value dibe jeta anra sum = 0 te store korbo.
+

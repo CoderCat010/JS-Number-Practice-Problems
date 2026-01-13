@@ -114,3 +114,16 @@
 // console.log(factorial);
 
 
+//-----> Find the sum of digits of a number.
+// let nums = 1234;
+// let toStr = nums.toString();
+// let sum = 0;
+// for(let i = 0; i < toStr.length; i++){
+//     sum += Number(toStr[i]);
+// }
+// console.log(sum);
+
+
+ 
+
+
