@@ -97,11 +97,20 @@
 
 
 //-----> Check if a number is positive or negative.
-let x = -8;
-if(x >= 0 ){
-    console.log('positive');
-}else{
-    console.log('negative');
-}
+// let x = -8;
+// if(x >= 0 ){
+//     console.log('positive');
+// }else{
+//     console.log('negative');
+// }
+
+
+//-----> Find factorial of a number.
+// let getFactorialNum = 5;
+// let factorial = 1;
+// for(let values = 1; values <= getFactorialNum; values++){
+//     factorial *= values;
+// }
+// console.log(factorial);
 
 
