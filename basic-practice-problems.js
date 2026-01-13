@@ -29,3 +29,12 @@
 // }
 
 
+//-----> Check if a number is even or odd.
+let evens_odds = 2;
+if(evens_odds % 2 === 0){
+    console.log('even');
+}else{
+    console.log('odd');
+}
+
+
