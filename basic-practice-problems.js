@@ -90,3 +90,9 @@
 // }
 // console.log(guessNumbers);
 
+
+//-----> Round a decimal number.
+// let round = 3.45748473247847983832;
+// console.log(parseInt(round));
+
+
