@@ -43,3 +43,5 @@ for (let i = 0; i < str.length; i++) {
     break; 
 }
 console.log(firstDigit); // ekhane ekta digit dewa ache but sobguloi number r amra jani number er khetre length r index ei duto property kaj kore na jodi amra chai kaj korate like amder ekta digit ache seta loop through kore kono ekta kaj korate hobe so sei khetre ba jekono khetre jodi proyojon pore tahole amra age number take string e convert korbo then index baa length niye amaer nidrishto kajta koriye nite parbo.
+
+

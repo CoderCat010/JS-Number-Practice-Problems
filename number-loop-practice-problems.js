@@ -57,16 +57,28 @@
 
 
 //------> Find the first digit of a number.
-let number = 6778678;
-let str = number.toString();
-let firstDigit;
+// let number = 6778678;
+// let str = number.toString();
+// let firstDigit;
 
-for (let i = 0; i < str.length; i++) {
-    firstDigit = str[0];
-    break; 
-}
-console.log(Number.EPSILON(firstDigit);
+// for (let i = 0; i < str.length; i++) {
+//     firstDigit = Number(str[0]);
+//     break; 
+// }
+// console.log(firstDigit);
 
+
+//------> Find the last digit of a number.
+// let number = 6778678;
+// let str = number.toString();
+// let lastDigit;
+
+// for (let i = 0; i < str.length; i++) {
+ 
+//     lastDigit = Number(str[i]);
+// }
+
+// console.log(lastDigit);
 
 
 
