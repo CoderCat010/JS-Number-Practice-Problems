@@ -38,6 +38,12 @@
 // console.log(y);
 
 
+let a = 5;
+let b = 10;
+b = b - a;
+a = b + a
+
+console.log(a, b);
 
 
 
