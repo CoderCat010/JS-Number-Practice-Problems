@@ -38,12 +38,25 @@
 // console.log(y);
 
 
-let a = 5;
-let b = 10;
-b = b - a;
-a = b + a
+//-----> Swap Two Numbers without any third variable
+// let a = 5;
+// let b = 10;
+// b = b - a;
+// a = b + a
 
-console.log(a, b);
+// console.log(a, b);
+
+
+//-----> Convert minutes into hours and minutes.
+// let totalMinutes = 140;
+// let minute = 60;
+// let getHours = (totalMinutes - (totalMinutes % 60)) / 60;
+// let remainingMin = totalMinutes - (getHours * minute);
+
+// console.log(("it is "+ parseInt(getHours) +" hour and "+ parseInt(remainingMin) +" minute")
+// );
+
+
 
 
 
