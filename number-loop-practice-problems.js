@@ -38,6 +38,14 @@
 // console.log(sum);
 
 
+//-----> Count how many numbers are divisible by 4 between 1 and 100.
+for(let i = 1; i <= 100; i++){
+    if(i % 4 == 0){
+        console.log(i);
+    }
+}
+
+
 
 
 
