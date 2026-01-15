@@ -74,10 +74,8 @@
 // let lastDigit;
 
 // for (let i = 0; i < str.length; i++) {
- 
 //     lastDigit = Number(str[i]);
 // }
-
 // console.log(lastDigit);
 
 
