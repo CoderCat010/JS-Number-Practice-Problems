@@ -80,18 +80,21 @@
 
 
 //------> Check if the last digit of a number is even.
-let x = 5844848;
-let convertIntStr = x.toString();
-let lastDigit;
+// let x = 5844848;
+// let convertIntStr = x.toString();
+// let lastDigit;
 
-for(let i = 0; i < convertIntStr.length; i++){
-    lastDigit = convertIntStr[i]
-}
-if(lastDigit % 2 == 0){
-    console.log(lastDigit + ' ---> is even');
-}else{
-    console.log(lastDigit + ' ---> is odd');
-}
+// for(let i = 0; i < convertIntStr.length; i++){
+//     lastDigit = convertIntStr[i]
+// }
+// if(lastDigit % 2 == 0){
+//     console.log(lastDigit + ' ---> is even');
+// }else{
+//     console.log(lastDigit + ' ---> is odd');
+// }
+
+
+
 
 
 

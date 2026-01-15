@@ -62,6 +62,18 @@
 // console.log(largestNumber - smallestNumber);
 
 
+// Find the largest number in an array.
+let arrElm = [1, 2, 55, 66, 886, 56454, 77777];
+let currentMax = arrElm[0];
+
+for(let i = 0; i < arrElm.length; i++){
+    if(arrElm[i] > currentMax){
+        currentMax = arrElm[i];
+    }
+}
+console.log(currentMax);
+
+
 
 
 
