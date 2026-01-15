@@ -46,15 +46,28 @@
 // }
 
 
-
 //------> Count digits of a given number using a loop.
-let digits = 89766;
-let converted = digits.toString()
-let count = 0;
-for(let i = 0; i < converted.length; i++){
-    count ++;
+// let digits = 89766;
+// let converted = digits.toString()
+// let count = 0;
+// for(let i = 0; i < converted.length; i++){
+//     count ++;
+// }
+// console.log(count);
+
+
+//------> Find the first digit of a number.
+let number = 6778678;
+let str = number.toString();
+let firstDigit;
+
+for (let i = 0; i < str.length; i++) {
+    firstDigit = str[0];
+    break; 
 }
-console.log(count);
+console.log(Number.EPSILON(firstDigit);
+
+
 
 
 

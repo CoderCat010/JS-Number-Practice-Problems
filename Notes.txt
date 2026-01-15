@@ -30,5 +30,16 @@ let sum = 0;
 for(let i = 0; i < arrElm.length; i++){
     sum += arrElm[i];
 }
-console.log(sum)// amra array e loop use korar khetre index dhore loop through korbo also jog korar khetre amader age mathay rakhte hobe je amra index number jig korci naki value jog korci. let i = 0; etar mane index 0 theke suru korci and arrElm[i] eta means array er elements gulo jeta index number diye amra acess korechi.
+console.log(sum)// amra array e loop use korar khetre index dhore loop through korbo also jog korar khetre amader age mathay rakhte hobe je amra index number jog korci naki value jog korci. let i = 0; etar mane index 0 theke suru korci and arrElm[i] eta means array er elements gulo jeta index number diye amra acess korechi.
 
+
+======================NOTE: 3=======================
+let number = 6778678;
+let str = number.toString();
+let firstDigit;
+
+for (let i = 0; i < str.length; i++) {
+    firstDigit = str[0];
+    break; 
+}
+console.log(firstDigit); // ekhane ekta digit dewa ache but sobguloi number r amra jani number er khetre length r index ei duto property kaj kore na jodi amra chai kaj korate like amder ekta digit ache seta loop through kore kono ekta kaj korate hobe so sei khetre ba jekono khetre jodi proyojon pore tahole amra age number take string e convert korbo then index baa length niye amaer nidrishto kajta koriye nite parbo.
