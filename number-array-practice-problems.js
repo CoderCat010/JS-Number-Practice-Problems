@@ -46,6 +46,21 @@
 
 
 
+//-----> Subtract the smallest number from the largest number.
+// let subtractArr = [1, 2, 3, 4, 5];
+// let largestNumber = subtractArr[0];
+// let smallestNumber = subtractArr[0];
+// for(let i = 0; i < subtractArr.length; i++){
+    
+//     if(subtractArr[i] > largestNumber){
+//         largestNumber = subtractArr[i]
+//     }
+//     if(subtractArr[i] < smallestNumber){
+//         smallestNumber = subtractArr[i]
+//     }
+// }
+// console.log(largestNumber - smallestNumber);
+
 
 
 

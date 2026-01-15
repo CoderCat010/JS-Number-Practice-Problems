@@ -38,12 +38,25 @@
 // console.log(sum);
 
 
-//-----> Count how many numbers are divisible by 4 between 1 and 100.
-for(let i = 1; i <= 100; i++){
-    if(i % 4 == 0){
-        console.log(i);
-    }
+//------> Count how many numbers are divisible by 4 between 1 and 100.
+// for(let i = 1; i <= 100; i++){
+//     if(i % 4 == 0){
+//         console.log(i);
+//     }
+// }
+
+
+
+//------> Count digits of a given number using a loop.
+let digits = 89766;
+let converted = digits.toString()
+let count = 0;
+for(let i = 0; i < converted.length; i++){
+    count ++;
 }
+console.log(count);
+
+
 
 
 
