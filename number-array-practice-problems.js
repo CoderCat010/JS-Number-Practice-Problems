@@ -1,8 +1,52 @@
 //-----> Find the sum of elements in an array.
-let arrElm = [1, 2, 3, 4, 5];
-let sum = 0;
+// let arrElm = [1, 2, 3, 4, 5];
+// let sum = 0;
 
-for(let values of arrElm){
-    sum += values;
-}
-console.log(sum);
+// for(let values of arrElm){
+//     sum += values;
+// }
+// console.log(sum);
+
+
+// Get the average of elements in an array.
+// let arrElm = [1, 2, 3, 4, 5];
+// let sum = 0
+// let avg = 0;
+// for(let i = 0; i < arrElm.length; i++){
+//     sum += arrElm[i];
+//     avg = sum / arrElm.length; 
+// }
+// console.log(avg);
+
+// or
+// var arrElm = [1, 2, 3, 4, 5];
+// var sum = 0;
+// for(var i = 0; i < arrElm.length; i++){
+//     sum += arrElm[i]
+//     var x = sum / arrElm.length
+// }
+// console.log(x);
+
+// or
+// let arrElm = [1, 2, 3, 4, 5];
+// let sum = 0;
+// for(let i = 0; i < arrElm.length; i++){
+//     sum += arrElm[i]
+// }
+// console.log(sum / arrElm.length)
+
+// or
+// let arrElm = [1, 2, 3, 4, 5];
+// let sum = 0;
+// for(let i = 0; i < arrElm.length; i++){
+//     sum += arrElm[i]
+// }
+// let average = sum / arrElm.length
+// console.log(average)
+
+
+
+
+
+
+
