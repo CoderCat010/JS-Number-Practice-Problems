@@ -1,3 +1,4 @@
+======================NOTE: 1=======================
 // amra jokhon akadhik value store korte chaibo tokhon [] eita use korbo 
 ------> for example: 
 let x = let getSquare_root = 25;
@@ -20,4 +21,14 @@ for(let i = 0; i < toStr.length; i++){
     sum += Number(toStr[i]);
 }
 console.log(sum); // ekhane loop ta cholbe 4 porjonto then jog kore notun ekta value dibe jeta anra sum = 0 te store korbo.
+
+
+======================NOTE: 2=======================
+//-----> Find the sum of elements in an array.
+let arrElm = [1, 2, 3, 4, 5];
+let sum = 0;
+for(let i = 0; i < arrElm.length; i++){
+    sum += arrElm[i];
+}
+console.log(sum)// amra array e loop use korar khetre index dhore loop through korbo also jog korar khetre amader age mathay rakhte hobe je amra index number jig korci naki value jog korci. let i = 0; etar mane index 0 theke suru korci and arrElm[i] eta means array er elements gulo jeta index number diye amra acess korechi.
 
