@@ -68,15 +68,7 @@
 // console.log(firstDigit);
 
 
-//------> Find the last digit of a number.
-// let number = 6778678;
-// let str = number.toString();
-// let lastDigit;
 
-// for (let i = 0; i < str.length; i++) {
-//     lastDigit = Number(str[i]);
-// }
-// console.log(lastDigit);
 
 
 
